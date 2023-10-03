@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EXERCISE-1-DataQueries", "EXERCISES-1\EXERCISE-1-DataQueries.csproj", "{CC01A552-9289-4DED-9997-F7D671991B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC01A552-9289-4DED-9997-F7D671991B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC01A552-9289-4DED-9997-F7D671991B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC01A552-9289-4DED-9997-F7D671991B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC01A552-9289-4DED-9997-F7D671991B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AED020-BA3B-44AC-B402-7037D7A97F99}
+	EndGlobalSection
+EndGlobal
